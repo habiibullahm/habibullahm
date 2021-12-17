@@ -12,7 +12,7 @@ Currently learning as **_Back-End Developer_** at [Glints Academy](https://acade
 
 ### 🔍 Currently Learning:
 
-- [Codewars](https://github.com/habiibullahm/basic-javascript#readme)
+-[Codewars](https://github.com/habiibullahm/basic-javascript#readme)
 -[Freecodecamp](https://github.com/habiibullahm/basic-javascript/blob/main/freecodecampTest.md)
 
 ### 🚀 How to reach me:
