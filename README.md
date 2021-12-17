@@ -12,8 +12,8 @@ Currently learning as **_Back-End Developer_** at [Glints Academy](https://acade
 
 ### 🔍 Currently Learning:
 
--[Codewars](https://github.com/habiibullahm/basic-javascript#readme)
--[Freecodecamp](https://github.com/habiibullahm/basic-javascript/blob/main/freecodecampTest.md)
+- [Codewars](https://github.com/habiibullahm/basic-javascript#readme)
+- [Freecodecamp](https://github.com/habiibullahm/basic-javascript/blob/main/freecodecampTest.md)
 
 ### 🚀 How to reach me:
 - Whatsapp : [+62 882 2432 3193](https://api.whatsapp.com/send?phone=6288224323193)
