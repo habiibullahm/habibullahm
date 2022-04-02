@@ -1,4 +1,4 @@
-👋 Hello... My full name is Muhammad Habiibullah, so you can call me "Habib". I'm Software Engineer who specialized in _backend_ side. Very passionate to learn about tech stack for backend developer. Experienced Backend Developer adept in bringing forth expertise in Node.js, Epress.js, mySQL and Deployment with CI/CD. Knowledgeable in user interface, testing, and debugging processes. Skilled in JavaScript, Visual studio code. Able to effectively self-manage during independent projects, as well as collaborate in a team setting. Experience as Backend Developer in the Mini and Final Project Bootcamp with 4-7 people in team..
+👋 Hello... My full name is Muhammad Habiibullah, so you can call me "Habib". I'm Software Engineer who specialized in _backend_ side. Very passionate to learn about tech stack for backend developer. Knowledgeable in user interface, testing, and debugging processes. Skilled in JavaScript, Visual studio code. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
 
 ## 💼 Career
