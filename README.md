@@ -1,4 +1,4 @@
-# Hi there, iam habib ! 👋
+# Hi there, I'm habib ! 👋
 
 ## 🚀 About Me
 
