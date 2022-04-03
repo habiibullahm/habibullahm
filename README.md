@@ -24,15 +24,15 @@ Developer in the Mini and Final Project Bootcamp with 4-7 people in team..
 
 💬 Ask me about node.js
 
-📫 How to reach me...
-- Whatsapp : [+62 851 7155 7088](https://api.whatsapp.com/send?phone=6285171557088)
-- Email : [mr.habiibullahm@gmail.com](mailto:mr.habiibullahm@gmail.com)
-- LinkedIn: [Muhammad Habiibullah](https://www.linkedin.com/in/muhammad-habibullah/)
-
 😄 Pronouns He/Him
 
 ⚡️ Fun fact easy going
 
+📫 How to reach me...
+- Whatsapp : [+62 851 7155 7088](https://api.whatsapp.com/send?phone=6285171557088)
+- Email : [mr.habiibullahm@gmail.com](mailto:mr.habiibullahm@gmail.com)
+- LinkedIn: [Muhammad Habiibullah](https://www.linkedin.com/in/muhammad-habibullah/)
+---
 ## 🛠 Skills
 - Javascript
 - Node.js
@@ -40,7 +40,5 @@ Developer in the Mini and Final Project Bootcamp with 4-7 people in team..
 - postgreSQL
 - mongoDB
 - Scrum 
-- 
 ---
-
 © 2021 — Muhammad Habiibullah
